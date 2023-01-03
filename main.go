@@ -43,7 +43,6 @@ func main() {
 			val, _ = strconv.Atoi(row[2])
 		} else {
 			fmt.Println("some row don't have data")
-			fmt.Println("xxxx")
 			return
 		}
 
